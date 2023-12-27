@@ -1,0 +1,49 @@
+.firstbox{
+    background-color: rgb(218, 228, 236);
+    height: 45px;
+    width:90%;
+    border-radius: 15px;
+    border: 1px white solid;
+    box-shadow: rgba(54, 55, 56, 0.2) 0px 8px 24px;;
+    margin: auto;
+    display:inherit;
+}
+.navig{
+    position: relative;
+    top:13px;
+    left:20px;
+}
+.srch{
+    padding: 10px,10px,100px,0px;
+    border: 0px whitesmoke none;
+    border-radius: 15px;
+    position: relative;
+    
+}
+.frsdrpbox{
+    color: rgb(102, 98, 98);
+    background: none;
+    border: 0;
+    position: relative;
+}
+.secdrpbox{
+    color: rgb(102, 98, 98);
+    background: none;
+    border: 0;
+    position: relative;
+}
+.cards{
+    margin: 50px 80px 80px 80px;   
+}
+.carcard{
+    height: 300px;
+    width: 250px;
+    border: 1px white solid;
+    border-radius: 10px;
+    box-shadow: rgba(54, 55, 56, 0.2) 0px 8px 24px;;
+    display: block;
+}
+.imag{
+    height: 150px;
+    width: 100%;
+}
